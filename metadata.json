@@ -1,0 +1,7 @@
+{
+  "name": "Luxury 3D Christmas Tree",
+  "description": "A high-end 3D visualization of a Christmas tree composed of ornaments and gifts, featuring smooth transitions between aggregated and scattered states with golden particle effects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
